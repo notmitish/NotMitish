@@ -10,8 +10,4 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 <img src="https://komarev.com/ghpvc/?username=NotMitish&style=for-the-badge" alt="Profile views" />
-h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/NotMitish/NotMitish/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/NotMitish/NotMitish/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-</div>
+
