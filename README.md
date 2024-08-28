@@ -11,3 +11,6 @@
     </a>
 <img src="https://komarev.com/ghpvc/?username=NotMitish&style=for-the-badge" alt="Profile views" />
 </div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/NotMitish/NotMitish/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
